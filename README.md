@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi I'm Santiago 👋
 
-<!--
-**salviega/salviega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning ..
+- 📫 How to reach me salviega6@gmail.com
 
-Here are some ideas to get you started:
+I have skills in statistical theory thanks to my studies in ecology, this required me to use different technologies for scientific research, such as R and Python. That made me fall in love with programming and code.
+Currently developing in web2 with the following stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Database: MySQL, MongoDB and GraphQL - Backend: Java (SpringBoot)  - Frontend: Angular or React
+
+While in web3  I work with the following stack:
+
+Backend: IPFS (Piñata), Solidity (Hardhat), The Graph (ApolloGraphQL) - Frontend: React, ethers.js   
