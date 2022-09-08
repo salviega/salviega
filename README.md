@@ -1,6 +1,5 @@
 # Hi I'm Santiago 👋
 
-- 🌱 I’m currently learning ..
 - 📫 How to reach me salviega6@gmail.com
 
 I have skills in statistical theory thanks to my studies in ecology, this required me to use different technologies for scientific research, such as R and Python. That made me fall in love with programming and code.
